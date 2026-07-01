@@ -1,0 +1,6 @@
+day13_env/
+__pycache__/
+logs/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
